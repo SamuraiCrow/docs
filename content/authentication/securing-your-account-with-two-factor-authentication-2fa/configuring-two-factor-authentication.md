@@ -71,7 +71,7 @@ A time-based one-time password (TOTP) application automatically generates an aut
 
 ### Manually configuring a TOTP app
 
-{% data reusables.two_fa.manual-totp-app-setup %}
+[{% data reusables.two_fa.manual-totp-app-setup %}](https://github.com/settings/security)
 
 {% ifversion fpt or ghec %}
 
